@@ -1,2 +1,5 @@
 2021.01.03 08.44.39: GIT COMMIT: Finished Status thing
 2021.01.03 08.44.47: Imma go draw somthing
+2021.01.03 08.46.00: Make the code look better
+2021.01.03 08.46.22: just testing it again
+2021.01.03 08.47.38: Looking good. Imma commit it

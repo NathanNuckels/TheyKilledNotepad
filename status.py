@@ -9,6 +9,6 @@ with open("status.txt","a+") as f:
 with open("status.txt","r") as f:
 	for line in f:
 		if line==data:
-			print(line.strip()+" <--")
+			print("--> "+line.strip())
 		else:
-			print(line.strip())
+			print("    "+line.strip())
