@@ -1,1 +1,2 @@
-2021.01.03.08.35.18: this is a test
+2021.01.03 08.44.39: GIT COMMIT: Finished Status thing
+2021.01.03 08.44.47: Imma go draw somthing
