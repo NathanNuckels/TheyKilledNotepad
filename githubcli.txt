@@ -1,0 +1,52 @@
+Quick reference for Github CLI
+
+gh issue close <NUMBER>
+gh issue comment <NUMBER> [-b <BODY> | -e (Use editor) | -w (Use browser)]
+gh issue create [-a <@USERNAMES | '@me'> | -b <BODY> | -t <TITLE> | -l <LABEL> | -w]
+gh issue delete <NUMBER>
+gh issue edit <NUMBER> [--add-assignee <LOGIN> | -b <BODY> | --remove-assignee <LOGIN> | -t <TITLE]
+gh issue list [-l <LABEL>]
+gh issue reopen <NUMBER>
+gh issue status 
+gh issue transfer <NUMBER> <DESTINATION-REPO>
+gh issue view <NUMBER> [-c | -w]
+
+gh pr checkout <NUMBER> [-f]
+gh pr checks <NUMBER> [-w]
+gh pr close <NUMBER>
+gh pr comment <NUMBER> [-b ,<BODY> | -e | -w]
+gh pr create (If body says 'Closes #<NUMBER>' that issue will be closed when merdged)
+gh pr diff <NUMBER> 
+gh pr edit <NUMBER> [-b <BODY> | -t <TITLE>]
+gh pr list [-w]
+gh pr merge <NUMBER> [--admin | -b <BODY> | 
+gh pr ready <NUMBER>
+gh pr reopen <NUMBER>
+gh pr review <NUMBER> [-a approve | -b <BODY> | -c <COMMENT> | -r request-changes]
+gh pr status
+gh pr view [-w]
+
+gh release create <TAG> [-d/--draft | -t <TITLE> | -n <NOTES>]
+gh release delete <TAG> 
+gh release download [<TAG>] [-A <ARCHIVE-FORMAT> | -D <DIRECTORY>]
+gh release list <TAG> <FILES>
+gh release upload
+gh release view [<TAG>] [-w]
+
+gh repo archive <REPO>
+gh repo clone <REPO> [<DIR>] [git flags...]
+gh repo create [<NAME>] [--public | --private]
+gh repo delete <REPO> 
+gh repo fork <REPO> [git flags...] [--clone <true|false> | --remote <true|false>]
+gh repo list [<OWNER>]
+gh repo rename <NEW-NAME>
+gh repo sync [<DESTINATION-REPO>] 
+gh repo view [-w]
+
+gh auth login [--with-token | --with-token < token.txt]
+gh auth logout
+gh auth setup-git
+gh auth status
+
+gh gpg-key add <KEY-FILE>
+gh gpg-key list
