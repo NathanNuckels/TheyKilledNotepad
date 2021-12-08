@@ -4,7 +4,7 @@
 
 git config --global user.name "NathanNuckels"
 git config --global user.email "nathannuckels@gmail.com"
-git config --global core.editor "namo -l "
+git config --global core.editor "nano -l "
 git config --global pull.ff false
 git config --global merge.ff false
 git config --global http.sslVerify false
