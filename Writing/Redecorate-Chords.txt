@@ -1,0 +1,47 @@
+BASS has prefix #
+LEAD has prefix $
+Up a semi-tone has suffix +
+(eg d sharp and e flat are both d+)
+
+#3C+
+
+#2G+
+#3C+
+
+#3D+
+#2B
+
+#2F+
+#2B
+
+...
+$4G+
+$4F+
+$3D+
+$4G+
+$4F+
+$3D+
+$4G+
+$4F+
+$3D+
+$4G+
+$4F+
+$3D+
+
+$3D+
+$3C+
+$3G+
+$3D+
+$3C+
+$3G+
+$3D+
+$3C+
+$3G+
+$3D+
+$3C+
+$3G+
+
+COURUS
+
+#2E. #3E. $3B. [  ]    Keep looping previus thing on channel 4
+To be continued.
