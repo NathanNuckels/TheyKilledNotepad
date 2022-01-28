@@ -43,5 +43,20 @@ $3G+
 
 COURUS
 
-#2E. #3E. $3B. [  ]    Keep looping previus thing on channel 4
+$3B. $4B.
+$4C+ $5C+
+$4D+ $5D+
+
+
+#2E. #3E. [  ] [  ]    Keep looping previus thing on channel 3 and 4
+#2C+ #3C+
+#1G+ #2G+
+#2F+ #3F+
+
+#2E. #3E.
+#2C+ #3C+
+#1B. #2B.
+#2F+ #3F+ #4C+ #4F+
+"Or redecorate?" [scilence]
+
 To be continued.
